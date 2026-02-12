@@ -2,8 +2,8 @@ import type { RequestEvent } from './$types';
 import { Buffer } from 'node:buffer';
 
 const BASE_URL = 'https://eu-west-1.faceassure.com';
-const K_ID_DEPLOYMENT_ID = '20260210222654-016f063-production';
-const K_ID_PRIVATELY_ACTION_ID = '40dc500368168e3130ea4625c535d5a9bbbf0243f1';
+const K_ID_DEPLOYMENT_ID = '20260212011106-337ae99-production';
+const K_ID_PRIVATELY_ACTION_ID = '40cf843cd405e2145e6dfb8d0f5247050a311ae378';
 const K_ID_NEXT_ROUTER_TREE =
 	'%5B%22%22%2C%7B%22children%22%3A%5B%22verify%22%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%2Ctrue%5D';
 const PRIVATELY_URL_REGEX = /(https:\/\/[a-z0-9]+\.cloudfront\.net\/.*)(?=:\{)/;
